@@ -1,0 +1,3 @@
+[pid=5698] cmd="hola" status=127
+[pid=5699] cmd="echo hello > out.txt" status=0
+[pid=5696] cmd="./myshell" status=0
